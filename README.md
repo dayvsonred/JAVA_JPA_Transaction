@@ -6,5 +6,5 @@ projeto JAVA JPA
 
 usando MAVEN
 BD MYSQL/MARIADB
-
+hibernate
 CRUD
